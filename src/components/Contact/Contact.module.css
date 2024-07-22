@@ -30,3 +30,6 @@ ul, li{
     font-size: 15px;
     font-weight: 500;
 }
+.btn:hover {
+    background-color: rgba(138, 134, 134, 0.759);
+}
